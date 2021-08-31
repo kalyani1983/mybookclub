@@ -1,0 +1,12 @@
+/* *{
+    background-color: rgb(158, 158, 158)
+} */
+.joinus{
+    background-color: khaki;
+    width: 600px;
+    border: 1px  black;
+    padding:  50px;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
